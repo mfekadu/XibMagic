@@ -2,8 +2,7 @@
 //  ViewPoop.swift
 //  XibMagic
 //
-//  Created by Michael Fekadu on 6/15/17.
-//  Copyright © 2017 mikes. All rights reserved.
+//  Created by Michael & Joey on 6/15/17.
 //
 
 import UIKit
