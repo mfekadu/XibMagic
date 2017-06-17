@@ -12,7 +12,7 @@ protocol ViewPoopOutput {
 }
 
 class ViewPoop: UIView {
-  
+
   var output: ViewPoopOutput!
 
   @IBAction func butt(_ sender: Any) {
